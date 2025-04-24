@@ -20,3 +20,5 @@ I'm always looking to learn something new and improve my skills. I enjoy buildin
 ---
 
 Thanks for visiting my profile! 😄
+
+![Humberto Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=eldanielhumberto&show_icons=true)
