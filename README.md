@@ -7,7 +7,7 @@
 ## 🛠 Technologies and tools I work with:
 
 -   **Frontend:** React, TypeScript
--   **Backend:** Express.js
+-   **Backend:** Express.js or SpringBoot
 -   **Database:** PostgreSQL
 -   **Version Control:** Git
 -   **Hardware/Hobby:** Arduino projects
