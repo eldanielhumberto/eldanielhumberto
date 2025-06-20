@@ -1,13 +1,11 @@
 # 👋 Hi, I'm Humberto Daniel
 
-🎓 I'm a junior developer passionate about technology and web development.  
-🚀 I'm currently learning **Java** to strengthen my skills in object-oriented programming and backend development.
-
+🎓 I'm a junior developer passionate about technology and web development.
 
 ## 🛠 Technologies and tools I work with:
 
 -   **Frontend:** React, TypeScript
--   **Backend:** Express.js or SpringBoot
+-   **Backend:** NestJS or SpringBoot
 -   **Database:** PostgreSQL
 -   **Version Control:** Git
 -   **Hardware/Hobby:** Arduino projects
