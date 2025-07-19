@@ -2,23 +2,19 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 
-<!-- ### Hi there 👋 I'm [Humberto!](https://github.com/eldanielhumberto)
+<p align="center">
+"The code you write today is the legacy you leave tomorrow: do it with passion and purpose."
+</p>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" /> -->
+<p align="center">
+I'm Humberto, backend developer trying to be a full stack developer.
+</p>
 
-### I'm a passionate web developer
-
--   👨‍💻 I’m currently working on web development technologies like Typescript, React etc.
--   📚 I’m currently learning everything about Frontend and Backend technologies
--   💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-
-### Languages I use
+<br>
+<div align="center">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Some of the technologies I have worked with
-
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -28,7 +24,14 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-<br/>
+![tRPC](https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=eldanielhumberto&show_icons=true&theme=gruvbox&hide_border=true" />
+</div>
+
+<br>
+<div style="display: flex; align-items: center; justify-content:center; gap: 15px;" align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eldanielhumberto&theme=onedark&hide_border=false" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldanielhumberto&theme=onedark&hide_border=false" alt="Top Languages" height="200"/>
+</div>
+<br>
