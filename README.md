@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
-</p>
-
-<p align="center">
 "The code you write today is the legacy you leave tomorrow: do it with passion and purpose."
 </p>
 
