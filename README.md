@@ -24,10 +24,3 @@ I'm Humberto, backend developer trying to be a full stack developer.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 </div>
-
-<br>
-<div style="display: flex; align-items: center; justify-content:center; gap: 15px;" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eldanielhumberto&theme=onedark&hide_border=false" alt="GitHub Streak" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldanielhumberto&theme=onedark&hide_border=false" alt="Top Languages" height="200"/>
-</div>
-<br>
