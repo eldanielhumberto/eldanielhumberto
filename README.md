@@ -20,5 +20,5 @@ I learnt to programme when I was 12; I’m passionate about everything to do wit
 
 ### 📬 &nbsp;Contact Me
 
-[![X (formerly Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gubterjo)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:humbertodev1234@gmail.com)
+[![X (formerly Twitter)](https://img.shields.io/badge/@gubterjo-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/gubterjo)
+[![Gmail](https://img.shields.io/badge/humbertodev1234@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:humbertodev1234@gmail.com)
