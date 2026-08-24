@@ -7,7 +7,7 @@ I learnt to programme when I was 12; I’m passionate about everything to do wit
 
 ### 🛠 &nbsp;Skills
 
-<img alt="Night Coding" src="./11002.jpg" align="right"/>
+<img alt="Night Coding" src="./11002.jpg" align="right" width="350" />
 
 ![godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
 ![cplusplus](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -17,3 +17,8 @@ I learnt to programme when I was 12; I’m passionate about everything to do wit
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-green?style=for-the-badge)
+
+### 📬 &nbsp;Contact Me
+
+[![X (formerly Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gubterjo)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:humbertodev1234@gmail.com)
