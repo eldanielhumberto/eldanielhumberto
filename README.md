@@ -7,7 +7,7 @@ I learnt to programme when I was 12; I’m passionate about everything to do wit
 
 ### 🛠 &nbsp;Skills
 
-<img alt="Night Coding" src="./11002.jpg" align="right" width="350" />
+<img alt="Night Coding" src="./11002.jpg" align="right" width="300" />
 
 ![godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
 ![cplusplus](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
